@@ -10,7 +10,7 @@
 2017 ==> 2071
 ```
 
-:pushpin: **If the digits can't be rearranged to form a bigger number, return -1 (or nil in Swift, None in Rust):**
+:pushpin: **If the digits can't be rearranged to form a bigger number, return `-1`:**
 
 ```
   9 ==> -1
