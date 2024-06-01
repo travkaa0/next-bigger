@@ -22,4 +22,4 @@
 
 ___
 
-[Codewars link](https://www.codewars.com/kata/55983863da40caa2c900004e/train/c/6645d8bf124a832ec296f3c3)
+[Codewars link](https://www.codewars.com/kata/55983863da40caa2c900004e)
