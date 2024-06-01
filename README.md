@@ -2,15 +2,15 @@
 
 :pushpin: **Create a function that takes a positive integer and returns the next bigger number that can be formed by rearranging its digits. For example:**
 
-:white_check_mark:   12 ==> 21
-:white_check_mark:  513 ==> 531
-:white_check_mark: 2017 ==> 2071
+  12 ==> 21
+ 513 ==> 531
+2017 ==> 2071
 
 :pushpin: **If the digits can't be rearranged to form a bigger number, return -1 (or nil in Swift, None in Rust):**
 
-:x:   9 ==> -1
-:x: 111 ==> -1
-:x: 531 ==> -1
+  9 ==> -1
+111 ==> -1
+531 ==> -1
 
 __
 
